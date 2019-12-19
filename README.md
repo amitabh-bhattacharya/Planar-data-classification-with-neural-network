@@ -17,7 +17,7 @@ The packages required for this project are:
 - planar_utils provide various useful functions used in this project
 
 ### Dataset
-We use the datset provided by planar_utils in this project. The data looks like a "flower" with some red and some blue points. 
+We use the dataset provided by planar_utils in this project. The data looks like a "flower" with some red and some blue points. 
 
 ### Project goal
 We build a logistic regression and neural network classifiers. The classifiers should predict the regions of the data points as either red or blue. We make a note on the prediction accuracy of logistic regression vs neural netwrok for non-linear dataset.
